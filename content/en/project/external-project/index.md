@@ -6,18 +6,19 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 links:
-- icon: google
+- icon: twitter
   icon_pack: fab
-  name: "google"
-  url: https://www.google.com
+  name: "pamepairo"
+  url: https://twitter.com/PamePairo
 #slides: example
-summary: Coming Soon
+summary: Coming soon
 tags:
 #- Deep Learning
-title: Coming Soon
+title: Coming soon
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+
 
