@@ -89,7 +89,7 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "jcsa.lobato@gmail.com"
-phone = "888 888 88 88"
+#phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -97,7 +97,8 @@ phone = "888 888 88 88"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-3.1243617", longitude = "-60.0060162"}
+
+#coordinates = {latitude = "-3.1243617", longitude = "-60.0060162"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
