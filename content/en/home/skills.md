@@ -20,7 +20,7 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: powetr BI
+- description: Power BI / Excel / ggplot2 / plotly
   icon: chart-bar
   icon_pack: fas
   name: Data Visualization
