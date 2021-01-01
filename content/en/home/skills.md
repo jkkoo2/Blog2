@@ -20,14 +20,18 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
+- description: powetr BI
+  icon: chart-bar
   icon_pack: fas
-  name: Statistics
+  name: Data Visualization
 - description: 10%
   icon: camera-retro
   icon_pack: fas
   name: Photography
+- description: 10%
+  icon: chart-line
+  icon_pack: fas
+  name: Data Visualization
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"

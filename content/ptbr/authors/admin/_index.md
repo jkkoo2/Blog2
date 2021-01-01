@@ -30,8 +30,8 @@ superuser: true
 title: João Claudio Lobato
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat 
+Um estatístico em formação e um entusiasta no mundo da programação. Atualmente sou Estagiário no Tribunal de Justiça do Amazonas e faço minha graduação na Universidade Federal do Amazonas. Tenho experiência com R, Power BI e modelagem Estatística.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Além das minhas atividades profissionais e acadêmicas eu curto jogar video game e me encontrei no Skateboard, ando de skate desde os 12 anos e espero continuar ate eu não poder mais 😁 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
